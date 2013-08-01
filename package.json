@@ -1,0 +1,7 @@
+{
+  "name": "restore-domain",
+  "version": "0.0.1",
+  "description": "library to help keep the current domain active when using callbacks with libraries that use connection pools",
+  "main": "./lib/restore-domain.js",
+  "dependencies" : {}
+}
